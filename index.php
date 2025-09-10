@@ -20,6 +20,9 @@
 	<head>
 	    <meta charset="utf-8">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<!-- 网站图标 -->
+		<link rel="icon" href="https://kkpic.ikk99.com/k_favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="https://kkpic.ikk99.com/k_favicon.ico">
 		<!--标题-->
 	    <title><?php echo get_title() . ' - ' . get_description(); ?></title>
 		<!--介绍、关键词的放置处（SEO优化）-->
